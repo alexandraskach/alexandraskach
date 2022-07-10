@@ -6,4 +6,5 @@ Actuellement en alternance en dévéloppement front-end. Ce répo contient mes p
 - ⌨️ Mes frameworks préférés : Angular & React.js;
 - ✨ Fun facts : comic book lover & gigs;
 - 🌎 Langues parlés : français, russe, anglais, polonais;
+- 🗡️ Codewars: https://www.codewars.com/users/alexandraskach
 - 📫 Me contacter : skach.alexandra@gmail.com;
