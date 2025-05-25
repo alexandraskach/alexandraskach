@@ -1,6 +1,6 @@
 ### Bonjour, je m'appelle Alexandra 👋
 
-Actuellement dévéloppeuse fullstack chez BPCE SI. Ce répo contient mes projets perso et les projets réalisés pendant mes études.
+Actuellement développeuse fullstack chez BPCE SI. Ce répo contient mes projets perso et les projets réalisés pendant mes études.
 
 - 👩‍🎓 Formation : M2 Ingénierie du web;
 - ⌨️ Mes frameworks préférés : Angular & Vue 3;
